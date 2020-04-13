@@ -9,3 +9,5 @@ if [ ! -f $File ];then
 else
   cat $File
 fi
+
+### add test git 
