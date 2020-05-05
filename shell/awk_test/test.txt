@@ -1,0 +1,3 @@
+My name is dhy
+This is a awk_test files
+Content is a,b,c,df
